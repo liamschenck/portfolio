@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #666;
+}
+
+a {
+    color: white;
+}
+a:hover {
+    color: #ddd;
+}
