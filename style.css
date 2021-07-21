@@ -2,11 +2,33 @@ body {
     font-family: 'Roboto', sans-serif;
     color: white;
     background-color: #666;
+    margin: 0;
 }
 
 a {
     color: white;
+    text-decoration: none;
 }
 a:hover {
-    color: #ddd;
+    color: #999;
+}
+
+header {
+    background-color: #444;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#heading {
+    display: inline-block;
+    margin-left: 25%;
+    margin-right: 10%;
+}
+
+#links {
+    display: inline-block;
+}
+
+#links a {
+    margin-left: 100px;
 }
